@@ -1,4 +1,5 @@
 ---
+layout:post
 title:在东京居住的三月
 ---
 
