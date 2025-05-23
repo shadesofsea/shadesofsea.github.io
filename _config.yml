@@ -18,8 +18,8 @@ title: Shades of the Sea
 # --- List of links in the navigation bar --- #
 ###############################################
 
-# navbar-links:
-#   About Me: "aboutme"
+navbar-links:
+  About Me: "aboutme"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
