@@ -4,4 +4,4 @@ title: About me
 subtitle: What I write in blogs
 ---
 
-Travel, places, random encounters, things that happen in life
+Travel, cities, random encounters with human beings on Earth, things that happened or about to happen in life
