@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 在东京居住的三月
-categories: [旅行, 生活]
+categories: [生活,旅行]
 tags: [东京旅行]
 ---
 
