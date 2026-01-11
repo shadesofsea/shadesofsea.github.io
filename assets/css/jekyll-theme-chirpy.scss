@@ -1,0 +1,24 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+/* Override the compiled CSS variables. 
+  This bypasses all Sass import issues.
+*/
+:root {
+  --font-family-base: 'Noto Sans SC', LXGWWenKai, sans-serif;
+  --font-family-heading: Lato, sans-serif;
+}
+
+/* Force the body to use the new variable if Chirpy's bootstrap layer is being stubborn */
+body {
+  font-family: var(--font-family-base) !important;
+}
