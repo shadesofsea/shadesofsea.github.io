@@ -2,7 +2,7 @@
 layout: post
 title: 找工记 - 2026
 categories: [工作,找工]
-tags: [job]
+tags: [找工]
 ---
 长达9个月的找工时间过去。
 

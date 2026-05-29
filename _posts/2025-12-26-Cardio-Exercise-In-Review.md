@@ -2,7 +2,7 @@
 layout: post
 title: 有氧运动博主大测评
 categories: [生活,运动]
-tags: [cardio exercise] 
+tags: [] 
 ---
 
 谁能想到有朝一日我还能写这个题材呢。简单来讲，这是一期对（跟练过的）有氧运动博主的测评，主要是YouTube和Bilibili双修的博主们。

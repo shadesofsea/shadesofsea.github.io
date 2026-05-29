@@ -2,7 +2,7 @@
 layout: post
 title: 关于burnout的一切
 categories: [工作,职业]
-tags: [burnout]
+tags: []
 ---
 想了很久要不要写一篇关于burnout的记录。最终决定作为一种记录和回头看的警示录写下来。希望大家都不会需要遭遇到这样的境况，能够尽早摆脱职业burnout。
 
