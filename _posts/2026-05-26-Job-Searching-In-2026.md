@@ -6,7 +6,7 @@ tags: [找工]
 ---
 长达9个月的找工时间过去。
 
-2026年，包括2025下半时间，找工的难度和一年前、数年前有了非常巨大的变化。难度甚至超越了没有经验 NG 找工的阶段。发现自己做的 sector 在亚洲来讲能去的地方相对较少，niche sector 增加了跳槽的难度；大几年经验之后似乎比 junior 时候更难换工了…… 当然啦，最主要的原因大家都知道，市场不景气，AI spending drives budget cuts everywhere else, 即使利润上涨，公司开新 headcount 都非常谨慎，而且招人 highly selective；随着经济下行有毒的公司文化和职位内容越来越多，更多人进入找工市场，主动或被动需要寻找下家。
+2026年，包括2025下半时间，找工的难度和一年前、数年前有了非常巨大的变化。难度甚至超越了没有经验 NG 找工的阶段。发现自己做的 sector 在地区来讲能去的地方相对较少，niche sector 增加了跳槽的难度；大几年经验之后似乎比 junior 时候更难换工了…… 当然啦，最主要的原因大家都知道，市场不景气，AI spending drives budget cuts everywhere else, 即使利润上涨，公司开新 headcount 都非常谨慎，而且招人 highly selective；随着经济下行有毒的公司文化和职位内容越来越多，更多人进入找工市场，主动或被动需要寻找下家。
 
 
 这次最明显的感受是，在 supply > > demand 的情况下，对于 relevant experience 要求水涨船高。以往可以通过面试里说服对方自己拥有的 transferable skills，或是常规的、行业内原本能互相跳槽的职位，现在连面试机会都给得很少，面试通过了也非常容易在 final round 之后被横向，输给经验更加符合的 the other candidate。市场好的时候对于转行跳槽还是宽容的，并且欢迎不同背景跨领域的 candidate 带来的新知识，但现在的招人标准则是变成了 hiring manager 定义中的 relevant experience，即使几乎100%符合都很难讲通过的概率。
