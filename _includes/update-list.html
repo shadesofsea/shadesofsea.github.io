@@ -2,14 +2,14 @@
 
 {% assign MAX_SIZE = 5 %}
 
-<strong>{% assign internal_posts = site.posts | where_exp: 'item', 'item.seo.internal != true' %}</strong>
-<strong>{% assign update_list = internal_posts | where_exp: 'item', 'item.hidden != true' %}</strong>
+{% assign internal_posts = site.posts | where_exp: 'item', 'item.seo.internal != true' %}
+{% assign update_list = internal_posts | where_exp: 'item', 'item.hidden != true' %}
 
 {% if update_list.size > 0 %}
   <section id="access-lastmod">
-    <h2 class="panel-heading"><strong>Recently Posted</strong></h2>
+    <h2 class="panel-heading">Recently Posted</h2>
     <ul class="content list-unstyled ps-0 pb-1 ms-1 mt-2">
-      {% for <strong>post</strong> in update_list <strong>limit: MAX_SIZE</strong> %}
+      {% for post in update_list limit: MAX_SIZE %}
         {% assign url = post.url | relative_url %}
         <li class="text-truncate lh-lg">
           <a href="{{ url }}">{{ post.title }}</a>
@@ -17,4 +17,4 @@
       {% endfor %}
     </ul>
   </section>
-  {% endif %}
+{% endif %}
